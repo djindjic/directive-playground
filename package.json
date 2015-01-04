@@ -1,0 +1,7 @@
+{
+  "jspm": {
+    "dependencies": {
+      "aurelia-dependency-injection": "^0.1.1"
+    }
+  }
+}
