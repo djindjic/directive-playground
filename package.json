@@ -1,6 +1,6 @@
 {
   "name": "fatburnhub",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "devDependencies": {
     "chai": "^1.10.0",
     "del": "^0.1.3",
